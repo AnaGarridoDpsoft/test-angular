@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'test';
+  public title = 'Mi primera app de Angular';
+  public counter : number = 10;
 }
