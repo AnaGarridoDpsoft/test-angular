@@ -5,7 +5,7 @@ import { CounterModule } from './counter/counter.module';
 import { HeroesModule } from './heroes/heroes.module';
 
 import { AppComponent } from './app.component';
-import { MainPagecomponent } from './dbz/pages/main-page.component';
+import { MainPageComponent } from './dbz/pages/main-page.component';
 import { DbzModule } from './dbz/dbz.module';
 
 @NgModule({
